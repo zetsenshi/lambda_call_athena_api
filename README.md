@@ -1,0 +1,2 @@
+# lambda_call_athena_api
+athenaに登録済みのqueryをlambdaで実行し、結果を特定のS3のバケットに保存する
